@@ -3,6 +3,3 @@
 "Roboto Condensed", sans-serif
 
 "Roboto Slab", serif
-
-
-use this fonts while making this website
